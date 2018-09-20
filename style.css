@@ -1,0 +1,32 @@
+
+body {
+	text-align: center;
+	margin: 0;
+	background-color: rgb(189,242,125);
+}
+
+header {
+	color: rgb(245,247,242);
+	padding: 30px 20px;
+}
+
+img {
+	margin: 40px 0 8px 8px;
+	height: 175px;
+	width: 130px;
+	border-radius:30px;
+}
+
+h1,h2 {
+	font-family: Raleway;
+	font-weight: 800;
+	font-size: 45px;
+	font-style:italic;
+	letter-spacing: 1px;
+	margin: 0;
+}
+
+main {
+	width: 850px;
+	margin: 35px auto;
+}
